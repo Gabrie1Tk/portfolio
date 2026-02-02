@@ -1,8 +1,8 @@
-# 👨‍💻 Portfólio Profissional
+# Portfólio Profissional
 
 Este repositório contém o código-fonte do meu site pessoal. O projeto funciona como um currículo online interativo, onde apresento minha trajetória, habilidades técnicas e os principais projetos desenvolvidos durante minha jornada como desenvolvedor.
 
-## 🌐 Acesse Online
+## Acesse Online
 
 Veja o portfólio no ar clicando no botão abaixo:
 
@@ -10,7 +10,7 @@ Veja o portfólio no ar clicando no botão abaixo:
 
 > **Link direto:** https://gabrie1tk.github.io/portfolio/
 
-## 📑 Estrutura do Site
+## Estrutura do Site
 
 O site foi desenvolvido com uma estrutura de navegação em página única (Single Page), contendo as seguintes seções:
 
@@ -21,7 +21,7 @@ O site foi desenvolvido com uma estrutura de navegação em página única (Sing
 * **Projetos:** Galeria com links para meus repositórios (ex: *Decodificador*, *Jogo da Forca*, *Takao Store*).
 * **Contato:** Formulário e links para redes sociais.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi construído focando em boas práticas de estruturação e design:
 
@@ -32,7 +32,7 @@ O projeto foi construído focando em boas práticas de estruturação e design:
     * **Responsividade:** Adaptação do layout para dispositivos móveis (`@media`).
 * **JavaScript:** Validação de formulários e interatividade (se aplicado).
 
-## 📂 Como Executar Localmente
+## Como Executar Localmente
 
 1.  **Clone o repositório:**
     ```bash
@@ -46,6 +46,3 @@ O projeto foi construído focando em boas práticas de estruturação e design:
 ## Autor
 
 Desenvolvido por **[Gabriel Takao](https://github.com/Gabrie1Tk)**.
-
----
-*Projeto desenvolvido com foco em Front-End.*
